@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EMONEV2.0</string>
+
+    <string-array name="OPD">
+        <item>Dinas Pendidikan</item>
+        <item>Dinas Pembangunan</item>
+        <item>Dinas Kesehatan</item>
+
+    </string-array>
+</resources>
